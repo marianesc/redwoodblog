@@ -1,6 +1,5 @@
 import type { ArticlesQuery, ArticlesQueryVariables } from 'types/graphql'
 
-import { Link, routes } from '@redwoodjs/router'
 import type {
   CellSuccessProps,
   CellFailureProps,
